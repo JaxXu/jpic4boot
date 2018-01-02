@@ -1,0 +1,12 @@
+spring:
+    jmx:
+        enabled: false
+        
+qiniu:
+    space-name: blog-resouce
+    ak: iSIxd9-tiZTn4k4ULxKNxBmMhAp5clY1zxBGNT2c
+    sk: r-Wl2zyv_rTTg7o_q7l9kzlU8N1HxM_pYS0Uiyou
+    upload-directory-prefix: image
+    space-upload-url-prefix: ogtt5pngo.bkt.clouddn.com
+logging:
+  level: debug
